@@ -19,3 +19,11 @@ dev_dependencies:
 flutter: 
   uses-material-design: true
 
+  assets:
+    - assets/icons/
+
+  fonts:
+  - family: Kalpurush
+    fonts:
+      - asset: assets/fonts/kalpurush.ttf
+
